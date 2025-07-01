@@ -1,2 +1,3 @@
 this is the full practise of git
-starts from today afternoon 
+starts from today afternoon
+goes for today
